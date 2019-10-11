@@ -1,2 +1,8 @@
 # findall-open-sfofoodtrucks
-find all open sfo food trucks at a given time
+
+
+
+```
+build jar using below command
+mvn clean package
+```
